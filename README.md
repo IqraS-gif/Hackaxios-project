@@ -27,7 +27,7 @@ From pitch deck roasting to investor matching and startup validation — Founder
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1603dad3-2d65-4def-af05-32f1daf52d89" width="800" height="800" />
+  <img src="https://github.com/user-attachments/assets/94e017ad-cf0c-4e9e-860b-3064256a387b" width="800" height="800" />
 </p>
 
 ---
