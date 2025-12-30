@@ -1,16 +1,17 @@
 <div align="center">
-  <h1 style="font-family: 'Poppins', sans-serif; font-size: 42px; font-weight: 700; color:purple">
-    🚀 Founders Fuel – AI Powered Startup Analyst For Both Investors And Founders
+  <h1 style="font-family: 'Poppins', sans-serif; font-size: 56px; font-weight: 800; letter-spacing: -1.5px; margin-bottom: 10px; background: linear-gradient(to right, #6a11cb, #2575fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🚀 Founders Fuel: The AI Co-Pilot for the Next Generation of Startups
   </h1>
-  <h3>
+  
+  <p style="font-family: 'Poppins', sans-serif; font-size: 20px; font-weight: 500; color: #555; margin-top: 0;">
+    From Idea to Investment — Smart Analysis for Founders & Investors
+  </p>
     <a href="https://founder-s-fuel-final-code-1y38.vercel.app/" target="_blank">
       🔗 Visit The Website
     </a><br>
     <a href="https://youtu.be/ORUnEhAQxaE" target="_blank">
       🎥See The Demo Video
     </a>
-
-  </h3>
 </div>
 
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
