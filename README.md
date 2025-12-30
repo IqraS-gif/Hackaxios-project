@@ -6,9 +6,10 @@
     <a href="https://founder-s-fuel-final-code-1y38.vercel.app/" target="_blank">
       🔗 Visit The Website
     </a><br>
-    <a href="https://youtu.be/O3U3rKZdfro" target="_blank">
+    <a href="https://youtu.be/ORUnEhAQxaE" target="_blank">
       🎥See The Demo Video
     </a>
+
   </h3>
 </div>
 
@@ -39,31 +40,30 @@ From pitch deck roasting to investor matching and startup validation — Founder
 
 <img width="600" height="600" alt="Screenshot 2025-11-25 213722" src="https://github.com/user-attachments/assets/dc120f48-5d4c-4124-9155-0289d7b97b1e" />
 
-
 ## 🛠️ Tech Stack
 
 ### **Frontend**
 
-* React (Vite)
-* Styled Components
-* Recharts
+- React (Vite)
+- Styled Components
+- Recharts
 
 ### **Backend**
 
-* Python
-* FastAPI
-* Google Gemini API
-* HuggingFace Transformers (BERT, NER, Sentiment)
-* SQLite
-* Scikit-Learn + SHAP
+- Python
+- FastAPI
+- Google Gemini API
+- HuggingFace Transformers (BERT, NER, Sentiment)
+- SQLite
+- Scikit-Learn + SHAP
 
 ### **RAG Module**
 
-* Streamlit
-* Pinecone 
-* Sentence Transformers
-* PDF/Text ingestion
-  
+- Streamlit
+- Pinecone
+- Sentence Transformers
+- PDF/Text ingestion
+
 ---
 
 ## 📂 Project Structure
@@ -94,7 +94,6 @@ founder-sfuel/
 
 # 🚀 Project Setup Guide
 
-
 ## 🔐 Environment Variables (Required)
 
 Create a `.env` file in `vc-copilot-backend/`:
@@ -107,6 +106,7 @@ SERPAPI_API_KEY=
 PINECONE_API_KEY=
 
 ```
+
 ## 🖥️ Frontend Setup
 
 ```
@@ -137,7 +137,7 @@ streamlit run ragfinalone.py
 
 <div align="center">
 
-Made with ❤️ by the **Iqra Sayed Hassan**
+Made with ❤️ by the **Team Iqraa**
 
 </div>
 
